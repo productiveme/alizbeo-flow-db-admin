@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'productiveme:flow-db-admin',
+  name: 'flow-db-admin',
   version: '1.3.2',
   // Brief, one-line summary of the package.
   shortDescription: 'Meteor Database Admin package for use with Flow Router',

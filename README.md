@@ -1,6 +1,6 @@
 Meteor Flow DB Admin
 ============
-`$ meteor add alizbeo:flow-db-admin`
+`$ git clone https://github.com:productiveme/alizbeo-flow-db-admin.git packages/flow-db-admin && meteor add flow-db-admin`
 
 A fork of yogiben:admin package to work with flow-router instead of iron:router
 
