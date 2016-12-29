@@ -25,7 +25,7 @@ This package is designed to work with certain types of projects. Your project sh
 * Fontawesome - e.g. `meteor add fortawesome:fontawesome`
 
 #### 1. Install ####
-Download to your packages directory and run `meteor add sach:flow-db-admin` then go to `/admin` to start
+Download to your packages directory and run `meteor add flow-db-admin` then go to `/admin` to start
 
 #### 2. Config ####
 The simplest possible config with one, 'Posts', collection.
